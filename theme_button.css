@@ -1,0 +1,20 @@
+button {
+    font-family: cursive;
+    background-color: #005bc5;
+    color: #fff;
+    border: none;
+    padding: 8px 15px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 15px;
+    text-decoration: none;
+  }
+  .theme button:hover{
+    background-color: #012677;
+    border-radius: 20px;
+    transition: 0.3s ease;
+  }
+  .white-theme  {
+    color: #1c2130;
+    background-color: #fff;
+  }
